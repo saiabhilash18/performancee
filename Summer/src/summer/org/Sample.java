@@ -11,6 +11,7 @@ public class Sample {
 		String dd=ab.nextLine();
 	System.out.println(str+" "+dd+ " "+" how are you" );
 	//this is simple program
+	System.out.println("Git");
 
 	}
 
