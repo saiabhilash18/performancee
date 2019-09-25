@@ -10,8 +10,8 @@ public class Sample {
 		System.out.println("enter your name");
 		String dd=ab.nextLine();
 	System.out.println(str+" "+dd+ " "+" how are you" );
-	//this is simple program
-.ab.close();
-	}
+	System.out.println("hyd");
+	//this is simple program	}
 
+}
 }
